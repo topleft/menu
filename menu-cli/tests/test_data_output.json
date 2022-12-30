@@ -1,0 +1,26 @@
+[
+  {
+    "category": "mexican",
+    "title": "Carnitas",
+    "slug": "carnitas",
+    "image_urls": [
+      "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/04/Carnitas-Tacos-2.jpg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pepita Salsa",
+    "slug": "pepita-salsa",
+    "image_urls": [
+      "https://immigrantstable.com/wp-content/uploads/2021/06/Salsa-macha-Pumpkin-seed-salsa-5.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Hummus",
+    "slug": "hummus",
+    "image_urls": [
+      "https://thelocalpalate.com/wp-content/uploads/2022/07/Hummus-with-Cilantro.jpg"
+    ]
+  }
+]

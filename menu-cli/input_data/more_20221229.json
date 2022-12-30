@@ -1,0 +1,113 @@
+[
+  {
+    "category": "mexican",
+    "title": "Chicken Tinga",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6549.png",
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6548.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Mexican Rice",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6550.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Stewed Beef with Pasilla Chiles",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6553.png",
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6552.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Short Rib Birria",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6554.png",
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6555.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Morrita Salsa and Àrbol Salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6556.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Habanero Salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6558.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Morrita Con Tomatillo Salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6558.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Morrita Con Tomatillo Salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_6558.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Broccoli Rab",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7920.png",
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7919.png"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "Brussels with Lemon, Anchovy, Walnuts, Pecorino",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7929.png",
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7928.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Kale Sauce Papardelle",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7932.png"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "Caper Raisin Dressing",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/salad/Caper Raisin Dressing.pdf",
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7937.png"
+    ]
+  },
+  {
+    "category": "dessert",
+    "title": "Pecan Dough",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/more/IMG_7938.png"
+    ]
+  },
+  {
+    "category": "menus",
+    "title": "Makoto",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/makoto menu.pdf"
+    ]
+  },
+  {
+    "category": "menus",
+    "title": "Itamae",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/Itamae+All+Day+Menu.png"
+    ]
+  }
+]
