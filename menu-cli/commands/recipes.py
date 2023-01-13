@@ -38,10 +38,10 @@ def add(
                 print(e.json())
                 continue
 
-            print(f"\nAdding recipe for {recipe_input.slug}")
-
             if not recipe_input.slug:
                 recipe_input.slug = slugify(recipe_input.title)
+
+            print(f"\nAdding recipe for {recipe_input.slug}")
 
             with open(recipe_data_path, "r") as f:
                 recipe_data = json.load(f)

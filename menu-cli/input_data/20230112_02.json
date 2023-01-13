@@ -1,0 +1,245 @@
+[
+  {
+    "category": "drinks",
+    "title": "mexican cocktails",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/cocktails!.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/cocktail!.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy butter toast",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/anchovy butter toast.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy, cheese, celery, black olive",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/anchovy, cheese, celery, black olive.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy pinxos",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/anchovy.jpg"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy, roasted red pepper, olive",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/anchovyroastedredpepperolive.jpg"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Locatelli's foolproof focaccia",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Basic focaccia (Locatelli's foolproof focaccia).pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "cheesus christ -- roberta's pizza",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/cheesus christ-- robertas pizza.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "chicken + green herbs",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/chicken + green herbs.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "french table look",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/french table look.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "herbed chicken",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/herbed chicken.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Crostino di Zucca, Ricotta e Parmigiano",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1575.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Radicchio with Pancetta",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1576.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Italian Kitchen Lewk!",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1578.jpg",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1611.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/italian plates.png",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/italian table loook.png",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Screen Shot 2022-10-22 at 8.53.29 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/shallots_garlic.jpg",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/table llok.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Mushrooms Stuffed with Olives and Porcini",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1605.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1606.JPG"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Sprinkle Pie (greek)",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_1614.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Puntarelle with Lemon, Caper, Anchovy, Pecorino",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_9788.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Radish Salad with Parsley, Capers, Anchovy",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/IMG_9789.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Italian Salsa Verde",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Italian Salsa Verde - Zingy, fresh and tasting of green goodness.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pan di Ramerino",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Pan di ramerino - Juls' Kitchen.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pasta Lewk!",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pasta look.jpeg",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pea, asparagus pasta.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pea and Asparagus Pasta",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pea, asparagus pasta.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pesto Pizza",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pesto pizza.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "pizza bonci rome",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pizza bonci rome.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pizza broccoli rabe ricotta",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Pizza broccoli rabe ricotta .jpg"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pizza Lewk!",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pizza toppings.png",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/pizza.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Ratatouille",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Ratatouille.pdf"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "romenesco",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/romenesco.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "salmon, tomato, black olive",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/salmon, tomato, black olive pic.png",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/salmon, tomato, black olive recipe.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Spaghetti con Zucchine",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/Spaghetti con Zucchine alla Nerano 2.pdf",
+      "/Users/pete.jeffryes/Desktop/recipes/italian/zucchini spaghetti alla nerano.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "speckenwolf -- roberta's pizza",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/speckenwolf--robertas pizza.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "the lupo -- roberta's pizza",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/the lupo-robertas pizza.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "the white & green -- roberta's pizza",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/the white & green --robertas pizza.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "tomato, caramelized onions galette",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/italian/tomato, carmelized onions galette.png"
+    ]
+  }
+]

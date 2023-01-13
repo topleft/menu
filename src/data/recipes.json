@@ -394,7 +394,7 @@
     ]
   },
   {
-    "category": "dessert",
+    "category": "desserts",
     "title": "Pecan Dough",
     "slug": "pecan-dough",
     "image_urls": [
@@ -415,6 +415,485 @@
     "slug": "itamae",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/itamae_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Cochinita",
+    "slug": "cochinita",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/cochinita_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/cochinita_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Tacos lewk!",
+    "slug": "tacos-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_2.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_3.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_4.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_5.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_6.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_7.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_8.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_9.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_10.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_11.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_12.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_13.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_14.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_15.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_16.png",
+      "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_17.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Table Lewk!",
+    "slug": "table-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/table-lewk_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/table-lewk_2.png",
+      "https://db1kxxvrlszby.cloudfront.net/table-lewk_3.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "sweet potato soup with pepitas",
+    "slug": "sweet-potato-soup-with-pepitas",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/sweet-potato-soup-with-pepitas_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "squash soup with pepitas",
+    "slug": "squash-soup-with-pepitas",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/squash-soup-with-pepitas_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "smothered burrito lewk",
+    "slug": "smothered-burrito-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/smothered-burrito-lewk_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "pumpkin seed salsa",
+    "slug": "pumpkin-seed-salsa",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pumpkin-seed-salsa_1.jpg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pepita Sesame Salsa Macha",
+    "slug": "pepita-sesame-salsa-macha",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pepita-sesame-salsa-macha_1.pdf"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Peanut Salsa",
+    "slug": "peanut-salsa",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/peanut-salsa_1.jpg"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "mezcal, watermelon, lime, basil, serrano",
+    "slug": "mezcal-watermelon-lime-basil-serrano",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/mezcal-watermelon-lime-basil-serrano_1.png"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "mezcal, cucumber, apple",
+    "slug": "mezcal-cucumber-apple",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/mezcal-cucumber-apple_1.png"
+    ]
+  },
+  {
+    "category": "desserts",
+    "title": "mexico city acai",
+    "slug": "mexico-city-acai",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/mexico-city-acai_1.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Salsa de Cascabel",
+    "slug": "salsa-de-cascabel",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/salsa-de-cascabel_1.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Salsa de Chile Morita",
+    "slug": "salsa-de-chile-morita",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/salsa-de-chile-morita_1.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Carnitas",
+    "slug": "carnitas",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/carnitas_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Al Pastor",
+    "slug": "al-pastor",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/al-pastor_1.JPG"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "Pineapple, Orange, Basil",
+    "slug": "pineapple-orange-basil",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pineapple-orange-basil_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pepper Reference",
+    "slug": "pepper-reference",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pepper-reference_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "chiletepin oil, iceberg crunch",
+    "slug": "chiletepin-oil-iceberg-crunch",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/chiletepin-oil-iceberg-crunch_1.png"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "corn avocado salad",
+    "slug": "corn-avocado-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/corn-avocado-salad_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "corn esquites",
+    "slug": "corn-esquites",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/corn-esquites_1.jpg"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "raw beans",
+    "slug": "raw-beans",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/raw-beans_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "chicken, sweet potato, black bean tacos",
+    "slug": "chicken-sweet-potato-black-bean-tacos",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/chicken-sweet-potato-black-bean-tacos_1.JPG"
+    ]
+  },
+  {
+    "category": "drinks",
+    "title": "mexican cocktails",
+    "slug": "mexican-cocktails",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/mexican-cocktails_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/mexican-cocktails_2.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy butter toast",
+    "slug": "anchovy-butter-toast",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/anchovy-butter-toast_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy, cheese, celery, black olive",
+    "slug": "anchovy-cheese-celery-black-olive",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/anchovy-cheese-celery-black-olive_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy pinxos",
+    "slug": "anchovy-pinxos",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/anchovy-pinxos_1.jpg"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "anchovy, roasted red pepper, olive",
+    "slug": "anchovy-roasted-red-pepper-olive",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/anchovy-roasted-red-pepper-olive_1.jpg"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Locatelli's foolproof focaccia",
+    "slug": "locatelli-s-foolproof-focaccia",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/locatelli-s-foolproof-focaccia_1.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "cheesus christ -- roberta's pizza",
+    "slug": "cheesus-christ-roberta-s-pizza",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/cheesus-christ-roberta-s-pizza_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "chicken + green herbs",
+    "slug": "chicken-green-herbs",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/chicken-green-herbs_1.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "french table look",
+    "slug": "french-table-look",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/french-table-look_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "herbed chicken",
+    "slug": "herbed-chicken",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/herbed-chicken_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Crostino di Zucca, Ricotta e Parmigiano",
+    "slug": "crostino-di-zucca-ricotta-e-parmigiano",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/crostino-di-zucca-ricotta-e-parmigiano_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Radicchio with Pancetta",
+    "slug": "radicchio-with-pancetta",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/radicchio-with-pancetta_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Italian Kitchen Lewk!",
+    "slug": "italian-kitchen-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_1.jpg",
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_2.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_3.png",
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_4.png",
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_5.png",
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_6.jpg",
+      "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_7.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Mushrooms Stuffed with Olives and Porcini",
+    "slug": "mushrooms-stuffed-with-olives-and-porcini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/mushrooms-stuffed-with-olives-and-porcini_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/mushrooms-stuffed-with-olives-and-porcini_2.JPG"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Sprinkle Pie (greek)",
+    "slug": "sprinkle-pie-greek",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/sprinkle-pie-greek_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Puntarelle with Lemon, Caper, Anchovy, Pecorino",
+    "slug": "puntarelle-with-lemon-caper-anchovy-pecorino",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/puntarelle-with-lemon-caper-anchovy-pecorino_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Radish Salad with Parsley, Capers, Anchovy",
+    "slug": "radish-salad-with-parsley-capers-anchovy",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/radish-salad-with-parsley-capers-anchovy_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Italian Salsa Verde",
+    "slug": "italian-salsa-verde",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/italian-salsa-verde_1.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pan di Ramerino",
+    "slug": "pan-di-ramerino",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pan-di-ramerino_1.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pasta Lewk!",
+    "slug": "pasta-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pasta-lewk_1.jpeg",
+      "https://db1kxxvrlszby.cloudfront.net/pasta-lewk_2.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pea and Asparagus Pasta",
+    "slug": "pea-and-asparagus-pasta",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pea-and-asparagus-pasta_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pesto Pizza",
+    "slug": "pesto-pizza",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pesto-pizza_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "pizza bonci rome",
+    "slug": "pizza-bonci-rome",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pizza-bonci-rome_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pizza broccoli rabe ricotta",
+    "slug": "pizza-broccoli-rabe-ricotta",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pizza-broccoli-rabe-ricotta_1.jpg"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Pizza Lewk!",
+    "slug": "pizza-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pizza-lewk_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/pizza-lewk_2.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Ratatouille",
+    "slug": "ratatouille",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.pdf"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "romenesco",
+    "slug": "romenesco",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/romenesco_1.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "salmon, tomato, black olive",
+    "slug": "salmon-tomato-black-olive",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/salmon-tomato-black-olive_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/salmon-tomato-black-olive_2.png"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "Spaghetti con Zucchine",
+    "slug": "spaghetti-con-zucchine",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/spaghetti-con-zucchine_1.pdf",
+      "https://db1kxxvrlszby.cloudfront.net/spaghetti-con-zucchine_2.pdf"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "speckenwolf -- roberta's pizza",
+    "slug": "speckenwolf-roberta-s-pizza",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/speckenwolf-roberta-s-pizza_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "the lupo -- roberta's pizza",
+    "slug": "the-lupo-roberta-s-pizza",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/the-lupo-roberta-s-pizza_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "the white & green -- roberta's pizza",
+    "slug": "the-white-green-roberta-s-pizza",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/the-white-green-roberta-s-pizza_1.JPG"
+    ]
+  },
+  {
+    "category": "italian",
+    "title": "tomato, caramelized onions galette",
+    "slug": "tomato-caramelized-onions-galette",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/tomato-caramelized-onions-galette_1.png"
     ]
   }
 ]

@@ -1,0 +1,190 @@
+[
+  {
+    "category": "mexican",
+    "title": "Cochinita",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Tacos de Cochinita.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Tacos de Cochinita 2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Tacos lewk!",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/tacos!.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/tacos looks.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/tacos la look.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/taco lewks2.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/taco lewks.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/taco lewk.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-12-09 at 6.41.44 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-12-09 at 6.37.11 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-12-09 at 6.35.10 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-24 at 6.58.20 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-24 at 6.55.36 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-24 at 6.55.02 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-22 at 8.45.08 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-22 at 8.44.11 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-22 at 8.42.48 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/Screen Shot 2022-10-22 at 8.41.49 PM.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mexican plate look.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Table Lewk!",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mexican table look 3.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mexican table look2.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mexican table loook.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "sweet potato soup with pepitas",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/sweet potato, pepitas.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "squash soup with pepitas",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/squash soup, pepitas.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "smothered burrito lewk",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/smothered burrito look.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "pumpkin seed salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/pumpkin seed salsa - mexico.jpg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pepita Sesame Salsa Macha",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/pepita-sesame-salsa-macha.pdf"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Peanut Salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/peanut salsa (mexico).jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "title": "mezcal, watermelon, lime, basil, serrano",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mezcal, watermelon, lime, basil, serrano.png"
+    ]
+  },
+  {
+    "category": "drinks",
+    "title": "mezcal, cucumber, apple",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mezcal, cumcumber, apple.png"
+    ]
+  },
+  {
+    "category": "desserts",
+    "title": "mexico city acai",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/mexico city acai.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Salsa de Cascabel",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/IMG_6576.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Salsa de Chile Morita",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/IMG_6575.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Carnitas",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/IMG_4469.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Al Pastor",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/IMG_1618.JPG"
+    ]
+  },
+  {
+    "category": "drinks",
+    "title": "Pineapple, Orange, Basil",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/IMG_1617.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pepper Reference",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/IMG_1574.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "chiletepin oil, iceberg crunch",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/chiletepin oil, iceberg crunch.png"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "corn avocado salad",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/corn avocado salad pic.png"
+    ]
+  },
+  {
+    "category": "drinks",
+    "title": "mexican cocktails",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/cocktails!.png",
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/cocktail!.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "corn esquites",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/corn esquites.jpg"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "raw beans",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/beans.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "chicken, sweet potato, black bean tacos",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/mexican/chicken -sweet potato- black bean tacos.JPG"
+    ]
+  }
+]

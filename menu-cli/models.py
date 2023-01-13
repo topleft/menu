@@ -3,7 +3,15 @@ from pathlib import Path
 from pydantic import BaseModel, AnyHttpUrl, validator
 
 
-categories = ["salads", "italian", "mexican", "other", "israeli"]
+categories = [
+    "salads",
+    "italian",
+    "mexican",
+    "other",
+    "israeli",
+    "desserts",
+    "beverages",
+]
 
 
 class RecipeInput(BaseModel):
