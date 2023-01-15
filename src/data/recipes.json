@@ -621,7 +621,7 @@
     ]
   },
   {
-    "category": "drinks",
+    "category": "beverages",
     "title": "mexican cocktails",
     "slug": "mexican-cocktails",
     "image_urls": [
@@ -894,6 +894,652 @@
     "slug": "tomato-caramelized-onions-galette",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/tomato-caramelized-onions-galette_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "byblos spice",
+    "slug": "byblos-spice",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/byblos-spice_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "carrot green tahini",
+    "slug": "carrot-green-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/carrot-green-tahini_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "carrot, sunflower, red lentil dip",
+    "slug": "carrot-sunflower-red-lentil-dip",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/carrot-sunflower-red-lentil-dip_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Lewk!",
+    "slug": "lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lewk_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_2.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_3.jpeg",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_4.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_5.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_6.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_7.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_8.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_9.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_10.PNG",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_11.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_12.webp",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_13.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_14.png",
+      "https://db1kxxvrlszby.cloudfront.net/lewk_15.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Green Tahini",
+    "slug": "green-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/green-tahini_1.jpg",
+      "https://db1kxxvrlszby.cloudfront.net/green-tahini_2.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "harissa, cauliflower, pomegranate.jpeg",
+    "slug": "harissa-cauliflower-pomegranate-jpeg",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/harissa-cauliflower-pomegranate-jpeg_1.jpeg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "hummus with lamb ragu, harissa -- shaya",
+    "slug": "hummus-with-lamb-ragu-harissa-shaya",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/hummus-with-lamb-ragu-harissa-shaya_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Muhammara",
+    "slug": "muhammara",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/muhammara_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/muhammara_2.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Pomegranate Glazed Pork Skewers",
+    "slug": "pomegranate-glazed-pork-skewers",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pomegranate-glazed-pork-skewers_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/pomegranate-glazed-pork-skewers_2.JPG"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "Israeli Cocktails",
+    "slug": "israeli-cocktails",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/israeli-cocktails_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Red Pepper Walnut Dip",
+    "slug": "red-pepper-walnut-dip",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/red-pepper-walnut-dip_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Hummus Two Ways",
+    "slug": "hummus-two-ways",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/hummus-two-ways_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/hummus-two-ways_2.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Shopping Guide",
+    "slug": "shopping-guide",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/shopping-guide_1.JPG"
+    ]
+  },
+  {
+    "category": "desserts",
+    "title": "Chocolate Orange Babka",
+    "slug": "chocolate-orange-babka",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/chocolate-orange-babka_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/chocolate-orange-babka_2.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Watermelon Fet Mint",
+    "slug": "watermelon-fet-mint",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/watermelon-fet-mint_1.JPG"
+    ]
+  },
+  {
+    "category": "desserts",
+    "title": "Peach Kuchen",
+    "slug": "peach-kuchen",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/peach-kuchen_1.JPG"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "Cardamom Cold Brew",
+    "slug": "cardamom-cold-brew",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/cardamom-cold-brew_1.JPG"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "Date Almond Milk",
+    "slug": "date-almond-milk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/date-almond-milk_1.JPG"
+    ]
+  },
+  {
+    "category": "beverages",
+    "title": "Pomegroni",
+    "slug": "pomegroni",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pomegroni_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Date and Root Vegetable Stew",
+    "slug": "date-and-root-vegetable-stew",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/date-and-root-vegetable-stew_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Za'atar Flatbread",
+    "slug": "za-atar-flatbread",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/za-atar-flatbread_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Tahini Smoothies",
+    "slug": "tahini-smoothies",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/tahini-smoothies_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "24hr Salted Lemon Spread",
+    "slug": "24hr-salted-lemon-spread",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/24hr-salted-lemon-spread_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Labaneh",
+    "slug": "labaneh",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/labaneh_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Israeli Menu",
+    "slug": "israeli-menu",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/israeli-menu_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Israeli Salad with Pickles and Mint - Tori Avey",
+    "slug": "israeli-salad-with-pickles-and-mint-tori-avey",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/israeli-salad-with-pickles-and-mint-tori-avey_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "layered yogurt flatbreads",
+    "slug": "layered-yogurt-flatbreads",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/layered-yogurt-flatbreads_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "lox, eggs, onion",
+    "slug": "lox-eggs-onion",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lox-eggs-onion_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Lutenitsa",
+    "slug": "lutenitsa",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lutenitsa_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "mushrooms, green tahini",
+    "slug": "mushrooms-green-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/mushrooms-green-tahini_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "roasted carrot, pepita green goddess, feta",
+    "slug": "roasted-carrot-pepita-green-goddess-feta",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/roasted-carrot-pepita-green-goddess-feta_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "roasted carrot, whipped tahini",
+    "slug": "roasted-carrot-whipped-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/roasted-carrot-whipped-tahini_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "roasted carrots + yogurt",
+    "slug": "roasted-carrots-yogurt",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/roasted-carrots-yogurt_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Roasted Cauliflower Steaks with Harissa Tahini",
+    "slug": "roasted-cauliflower-steaks-with-harissa-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/roasted-cauliflower-steaks-with-harissa-tahini_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Roasted Carrot and Feta Salad with parsley",
+    "slug": "roasted-carrot-and-feta-salad-with-parsley",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/roasted-carrot-and-feta-salad-with-parsley_1.jpeg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "rotisserie chicken sauces - winner",
+    "slug": "rotisserie-chicken-sauces-winner",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/rotisserie-chicken-sauces-winner_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "russ & daughters",
+    "slug": "russ-daughters",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/russ-daughters_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta menu",
+    "slug": "safta-menu",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-menu_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Schug -- yemeni",
+    "slug": "schug-yemeni",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/schug-yemeni_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Lemon Chicken Skewers",
+    "slug": "lemon-chicken-skewers",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lemon-chicken-skewers_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Lamb Skewers",
+    "slug": "lamb-skewers",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lamb-skewers_1.png"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Whole Roasted Cauliflower with Whipped Tahini Dressing",
+    "slug": "whole-roasted-cauliflower-with-whipped-tahini-dressing",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/whole-roasted-cauliflower-with-whipped-tahini-dressing_1.pdf"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "zatah + olive stuffed challah",
+    "slug": "zatah-olive-stuffed-challah",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/zatah-olive-stuffed-challah_1.jpeg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "challah",
+    "slug": "challah",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/challah_1.jpeg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Safta - Lutenitsa",
+    "slug": "safta-lutenitsa",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-lutenitsa_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Safta - Bulgarian Lamb Kebabs",
+    "slug": "safta-bulgarian-lamb-kebabs",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-bulgarian-lamb-kebabs_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/safta-bulgarian-lamb-kebabs_2.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Safta - Harissa",
+    "slug": "safta-harissa",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-harissa_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Harissa and Zhoug",
+    "slug": "harissa-and-zhoug",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/harissa-and-zhoug_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Lamb Meatballs",
+    "slug": "lamb-meatballs",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lamb-meatballs_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - brussel sprouts tahini",
+    "slug": "safta-brussel-sprouts-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-brussel-sprouts-tahini_1.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - hummus",
+    "slug": "safta-hummus",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-hummus_1.jpg",
+      "https://db1kxxvrlszby.cloudfront.net/safta-hummus_2.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - tahini mayo",
+    "slug": "safta-tahini-mayo",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-tahini-mayo_1.jpg"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "safta - arugula, citrus, zahtar",
+    "slug": "safta-arugula-citrus-zahtar",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-arugula-citrus-zahtar_1.jpg"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "safta - brussel srout, almond, golden rain salad",
+    "slug": "safta-brussel-srout-almond-golden-rain-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-brussel-srout-almond-golden-rain-salad_1.jpg"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "safta - cherry, jalapeno cilantro salad",
+    "slug": "safta-cherry-jalapeno-cilantro-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-cherry-jalapeno-cilantro-salad_1.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - dukkha",
+    "slug": "safta-dukkha",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-dukkha_1.jpg"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "safta - israeli salad",
+    "slug": "safta-israeli-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-israeli-salad_1.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - pita",
+    "slug": "safta-pita",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-pita_1.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - prepared tahini",
+    "slug": "safta-prepared-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-prepared-tahini_1.jpg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "safta - tahini chicken salad",
+    "slug": "safta-tahini-chicken-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-tahini-chicken-salad_1.jpg"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "safta - brussels with mustard and almonds",
+    "slug": "safta-brussels-with-mustard-and-almonds",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/safta-brussels-with-mustard-and-almonds_1.jpg"
+    ]
+  },
+  {
+    "category": "desserts",
+    "title": "coconut pecan pie",
+    "slug": "coconut-pecan-pie",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/coconut-pecan-pie_1.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Furikake",
+    "slug": "furikake",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/furikake_1.jpeg"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "salad + grilled halloumi",
+    "slug": "salad-grilled-halloumi",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/salad-grilled-halloumi_1.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Grilled Chicken with Pineapple-Cucumber Salsa",
+    "slug": "grilled-chicken-with-pineapple-cucumber-salsa",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/grilled-chicken-with-pineapple-cucumber-salsa_1.pdf"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Grilled Shrimp + Chermoula",
+    "slug": "grilled-shrimp-chermoula",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/grilled-shrimp-chermoula_1.webp"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "harissa roasted chicken",
+    "slug": "harissa-roasted-chicken",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/harissa-roasted-chicken_1.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "sushi lewk!",
+    "slug": "sushi-lewk",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/sushi-lewk_1.png",
+      "https://db1kxxvrlszby.cloudfront.net/sushi-lewk_2.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "japanese green beans",
+    "slug": "japanese-green-beans",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/japanese-green-beans_1.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "kabocha, nori, scallions",
+    "slug": "kabocha-nori-scallions",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/kabocha-nori-scallions_1.png"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "Moroccan Carrot Salad",
+    "slug": "moroccan-carrot-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/moroccan-carrot-salad_1.pdf"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "peach, mango, feta, green goddess",
+    "slug": "peach-mango-feta-green-goddess",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/peach-mango-feta-green-goddess_1.png"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "pecan+ squash +brussels + pomegranate",
+    "slug": "pecan-squash-brussels-pomegranate",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pecan-squash-brussels-pomegranate_1.jpeg"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Roasted Beets with Tahini",
+    "slug": "roasted-beets-with-tahini",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/roasted-beets-with-tahini_1.pdf"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Seafood Gumbo Recipe",
+    "slug": "seafood-gumbo-recipe",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/seafood-gumbo-recipe_1.pdf"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "sour duck tomato peach salad",
+    "slug": "sour-duck-tomato-peach-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/sour-duck-tomato-peach-salad_1.png"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Soy-Braised Kabocha Squash",
+    "slug": "soy-braised-kabocha-squash",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/soy-braised-kabocha-squash_1.pdf"
+    ]
+  },
+  {
+    "category": "salads",
+    "title": "watermelon salad",
+    "slug": "watermelon-salad",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/watermelon-salad_1.png"
     ]
   }
 ]
