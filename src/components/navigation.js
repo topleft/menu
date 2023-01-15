@@ -5,7 +5,7 @@ const PageLink = ({ link }) => {
   return (
     <li
       style={{
-        'padding': 'var(--space-4) 0'
+        'padding': 'var(--space-4) var(--space-2)'
       }}>
       <Link to={link.path}>{link.label}</Link>
     </li>
@@ -17,6 +17,7 @@ export default function Navigation({ pageLinks }) {
     <div>
       <ul style={{
         display: "flex",
+        flexWrap: "wrap",
         padding: "10px",
         listStyle: "none",
         justifyContent: "space-between"

@@ -46,7 +46,7 @@ const Layout = ({ children }) => {
         >
           Built by
           {` `}
-          <a href="https://www.topleft.dev">topleft</a>
+          <a href="https://www.topleft.dev">topleft</a> | Compiled by <a href="https://somaschema.com/">bottomright</a>
         </footer>
       </div>
     </>
