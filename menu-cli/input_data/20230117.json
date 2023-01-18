@@ -1,0 +1,84 @@
+[
+  {
+    "category": "other",
+    "title": "Saffron Honey",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230116/IMG_3576.JPG"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Ricotta Crespelle",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230116/IMG_3578.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "pavo en escabeche",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230116/pavo-en-escabeche-oriental-from-yucatan- david sterling.pdf"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "yakitori",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230116/yakitori.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Salsa Para Tortas Ahogadas",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0346.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0348.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Jicama and Orange Snack",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0349.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pasta de Cacahuate",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0350.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Tortillas de Harina",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0351.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0352.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_3052.5.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pork for Stuffed Chiles",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0354.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Green Mole",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0355.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0356.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Green Mole de Oaxaca",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0357.JPG",
+      "/Users/pete.jeffryes/Desktop/recipes/20230117/IMG_0358.JPG"
+    ]
+  }
+]

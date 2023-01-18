@@ -1541,5 +1541,98 @@
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/watermelon-salad_1.png"
     ]
+  },
+  {
+    "category": "other",
+    "title": "Saffron Honey",
+    "slug": "saffron-honey",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/saffron-honey_1.JPG"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Ricotta Crespelle",
+    "slug": "ricotta-crespelle",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/ricotta-crespelle_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "pavo en escabeche",
+    "slug": "pavo-en-escabeche",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pavo-en-escabeche_1.pdf"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "yakitori",
+    "slug": "yakitori",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/yakitori_1.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Salsa Para Tortas Ahogadas",
+    "slug": "salsa-para-tortas-ahogadas",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/salsa-para-tortas-ahogadas_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/salsa-para-tortas-ahogadas_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Jicama and Orange Snack",
+    "slug": "jicama-and-orange-snack",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/jicama-and-orange-snack_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pasta de Cacahuate",
+    "slug": "pasta-de-cacahuate",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pasta-de-cacahuate_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Tortillas de Harina",
+    "slug": "tortillas-de-harina",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/tortillas-de-harina_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/tortillas-de-harina_2.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/tortillas-de-harina_3.png"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Pork for Stuffed Chiles",
+    "slug": "pork-for-stuffed-chiles",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pork-for-stuffed-chiles_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Green Mole",
+    "slug": "green-mole",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/green-mole_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/green-mole_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "Green Mole de Oaxaca",
+    "slug": "green-mole-de-oaxaca",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/green-mole-de-oaxaca_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/green-mole-de-oaxaca_2.JPG"
+    ]
   }
 ]
