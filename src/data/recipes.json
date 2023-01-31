@@ -1634,5 +1634,13 @@
       "https://db1kxxvrlszby.cloudfront.net/green-mole-de-oaxaca_1.JPG",
       "https://db1kxxvrlszby.cloudfront.net/green-mole-de-oaxaca_2.JPG"
     ]
+  },
+  {
+    "category": "desserts",
+    "title": "Flourless Fudge Brownies",
+    "slug": "flourless-fudge-brownies",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/flourless-fudge-brownies_1.jpeg"
+    ]
   }
 ]
