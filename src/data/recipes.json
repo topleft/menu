@@ -1642,5 +1642,29 @@
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/flourless-fudge-brownies_1.jpeg"
     ]
+  },
+  {
+    "category": "drinks",
+    "title": "Hibiscus Mezcal",
+    "slug": "hibiscus-mezcal",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/hibiscus-mezcal_1.jpg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "lewk mexican table",
+    "slug": "lewk-mexican-table",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/lewk-mexican-table_1.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "poc chuc",
+    "slug": "poc-chuc",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/poc-chuc_1.jpeg"
+    ]
   }
 ]

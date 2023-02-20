@@ -1,0 +1,23 @@
+[
+  {
+    "category": "drinks",
+    "title": "Hibiscus Mezcal",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/hibiscus_mezcal_cocktail.jpg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "lewk mexican table",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/lewk_mexican_table.jpeg"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "poc chuc",
+    "image_paths": [
+      "/Users/pete.jeffryes/Desktop/poc_chuuc.jpeg"
+    ]
+  }
+]
