@@ -3,5 +3,8 @@
     "menu-cli"
   ],
   "python.testing.unittestEnabled": false,
-  "python.testing.pytestEnabled": true
+  "python.testing.pytestEnabled": true,
+  "circleci.persistedProjectSelection": [
+    "gh/topleft/menu"
+  ]
 }

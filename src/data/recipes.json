@@ -1666,5 +1666,21 @@
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/poc-chuc_1.jpeg"
     ]
+  },
+  {
+    "category": "desserts",
+    "title": "Rhubarb Date Crumble",
+    "slug": "rhubarb-date-crumble",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/rhubarb-date-crumble_1.JPG"
+    ]
+  },
+  {
+    "category": "other",
+    "title": "Pissaladière",
+    "slug": "pissaladiere",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/pissaladiere_1.JPG"
+    ]
   }
 ]
