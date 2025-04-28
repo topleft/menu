@@ -1,0 +1,2885 @@
+[
+    {
+        "category": "salads",
+        "title": "Kale, Squash, Tahini, Pepitas",
+        "slug": "kale-squash-tahini-pepitas",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/kale-squash-tahini-pepitas_1.png"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "sushi lewk!",
+        "slug": "sushi-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sushi-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/sushi-lewk_2.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Al Pastor",
+        "slug": "al-pastor",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/al-pastor_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Morrita Salsa and \u00c0rbol Salsa",
+        "slug": "morrita-salsa-and-arbol-salsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/morrita-salsa-and-arbol-salsa_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Rhubarb Date Crumble",
+        "slug": "rhubarb-date-crumble",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/rhubarb-date-crumble_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "spices",
+        "slug": "spices",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/spices_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Short Rib Birria",
+        "slug": "short-rib-birria",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/short-rib-birria_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/short-rib-birria_2.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Tomato, Parsley, Manouri, Cucumbers",
+        "slug": "tomato-parsley-manouri-cucumbers",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tomato-parsley-manouri-cucumbers_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Coconut_Flour_Brownies_The_Big_Mans_World_4",
+        "slug": "Coconut_Flour_Brownies_The_Big_Mans_World_4",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Coconut_Flour_Brownies_The_Big_Mans_World_4_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "safta - cherry, jalapeno cilantro salad",
+        "slug": "safta-cherry-jalapeno-cilantro-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-cherry-jalapeno-cilantro-salad_1.jpg"
+        ]
+    },
+    {
+        "category": "sandwiches",
+        "title": "Curried-Chicken-Salad-TheCozyApron",
+        "slug": "Curried-Chicken-Salad-TheCozyApron",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Curried-Chicken-Salad-TheCozyApron_1.pdf"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Ricotta Crespelle",
+        "slug": "ricotta-crespelle",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/ricotta-crespelle_1.JPG"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Pineapple, Orange, Basil",
+        "slug": "pineapple-orange-basil",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pineapple-orange-basil_1.JPG"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Pomegroni",
+        "slug": "pomegroni",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pomegroni_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Grapefruit Cranberry Walnut Salad",
+        "slug": "grapefruit-cranberry-walnut-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/grapefruit-cranberry-walnut-salad_1.jpeg"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_fresh_porcini_sauce_1",
+        "slug": "lidia_fresh_porcini_sauce_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_fresh_porcini_sauce_1_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "french table look",
+        "slug": "french-table-look",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/french-table-look_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_broccoli_rabe_and_sausage",
+        "slug": "lidia_broccoli_rabe_and_sausage",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_broccoli_rabe_and_sausage_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "IMG_5475",
+        "slug": "IMG_5475",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/IMG_5475_1.JPG"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "Matbucha-Tori-Avey",
+        "slug": "Matbucha-Tori-Avey",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Matbucha-Tori-Avey_1.pdf"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Chicken Tinga",
+        "slug": "chicken-tinga",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chicken-tinga_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/chicken-tinga_2.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Tomato, Melon, Hot Chile with Burrata",
+        "slug": "tomato-melon-hot-chile-with-burrata",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tomato-melon-hot-chile-with-burrata_1.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/tomato-melon-hot-chile-with-burrata_2.jpeg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Flourless Fudge Brownies",
+        "slug": "flourless-fudge-brownies",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/flourless-fudge-brownies_1.jpeg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Dessert Lewk",
+        "slug": "dessert-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/dessert-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/dessert-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/dessert-lewk_3.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Italian Kitchen Lewk",
+        "slug": "italian-kitchen-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_3.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_4.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_risotto_milan_style",
+        "slug": "lidia_risotto_milan_style",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_risotto_milan_style_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Pepita Sesame Salsa Macha",
+        "slug": "pepita-sesame-salsa-macha",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pepita-sesame-salsa-macha_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pino_Luongo_Spaghetti_Sausage_alla_Carbonara_via_Florence_Fabricant",
+        "slug": "Pino_Luongo_Spaghetti_Sausage_alla_Carbonara_via_Florence_Fabricant",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Pino_Luongo_Spaghetti_Sausage_alla_Carbonara_via_Florence_Fabricant_1.pdf"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Green Mole de Oaxaca",
+        "slug": "green-mole-de-oaxaca",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/green-mole-de-oaxaca_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/green-mole-de-oaxaca_2.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_bolognese_sauce_2",
+        "slug": "lidia_bolognese_sauce_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_bolognese_sauce_2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "salmon, tomato, black olive",
+        "slug": "salmon-tomato-black-olive",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/salmon-tomato-black-olive_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/salmon-tomato-black-olive_2.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "roasted carrot, whipped tahini",
+        "slug": "roasted-carrot-whipped-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted-carrot-whipped-tahini_1.png"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Seafood Gumbo Recipe",
+        "slug": "seafood-gumbo-recipe",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/seafood-gumbo-recipe_1.pdf"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "yakitori",
+        "slug": "yakitori",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/yakitori_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Peanut Salsa",
+        "slug": "peanut-salsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/peanut-salsa_1.jpg"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "Asian Lewk",
+        "slug": "asian-lewk",
+        "image_urls": []
+    },
+    {
+        "category": "salads",
+        "title": "Brussels Sprouts Salad",
+        "slug": "brussels-sprouts-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/brussels-sprouts-salad_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Corn Avo Salad",
+        "slug": "corn-avo-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/corn-avo-salad_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "hrous_1",
+        "slug": "hrous_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/hrous_1_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Coconut_Flour_Brownies_The_Big_Mans_World_1",
+        "slug": "Coconut_Flour_Brownies_The_Big_Mans_World_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Coconut_Flour_Brownies_The_Big_Mans_World_1_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "sonoran_hummus_1",
+        "slug": "sonoran_hummus_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sonoran_hummus_1_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Spaghetti con Zucchine",
+        "slug": "spaghetti-con-zucchine",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/spaghetti-con-zucchine_1.pdf",
+            "https://db1kxxvrlszby.cloudfront.net/spaghetti-con-zucchine_2.pdf"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "anchovy-olive-pate-2",
+        "slug": "anchovy-olive-pate-2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/anchovy-olive-pate-2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_basic_rissoto_1",
+        "slug": "lidia_basic_rissoto_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_basic_rissoto_1_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "pecan+ squash +brussels + pomegranate",
+        "slug": "pecan-squash-brussels-pomegranate",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pecan-squash-brussels-pomegranate_1.jpeg"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Pissaladi\u00e8re",
+        "slug": "pissaladiere",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pissaladiere_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Whole Roasted Cauliflower with Whipped Tahini Dressing",
+        "slug": "whole-roasted-cauliflower-with-whipped-tahini-dressing",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/whole-roasted-cauliflower-with-whipped-tahini-dressing_1.pdf"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "tortilla-2",
+        "slug": "tortilla-2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tortilla-2_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "pavo en escabeche",
+        "slug": "pavo-en-escabeche",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pavo-en-escabeche_1.pdf"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "catalan-meatballs-2",
+        "slug": "catalan-meatballs-2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/catalan-meatballs-2_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "corn esquites",
+        "slug": "corn-esquites",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/corn-esquites_1.jpg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Israeli Menu",
+        "slug": "israeli-menu",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/israeli-menu_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "carrot, sunflower, red lentil dip",
+        "slug": "carrot-sunflower-red-lentil-dip",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/carrot-sunflower-red-lentil-dip_1.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "trick-with-tomotoes",
+        "slug": "trick-with-tomotoes",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/trick-with-tomotoes_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_basic_rissoto_2",
+        "slug": "lidia_basic_rissoto_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_basic_rissoto_2_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Tahini Smoothies",
+        "slug": "tahini-smoothies",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tahini-smoothies_1.JPG"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "olive_crips_1",
+        "slug": "olive_crips_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/olive_crips_1_1.JPG"
+        ]
+    },
+    {
+        "category": "menus",
+        "title": "Itamae",
+        "slug": "itamae",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/itamae_1.png"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Beverages Lewk",
+        "slug": "beverages-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/beverages-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/beverages-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/beverages-lewk_3.png",
+            "https://db1kxxvrlszby.cloudfront.net/beverages-lewk_4.png",
+            "https://db1kxxvrlszby.cloudfront.net/beverages-lewk_5.png",
+            "https://db1kxxvrlszby.cloudfront.net/beverages-lewk_6.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Radish Salad with Parsley, Capers, Anchovy",
+        "slug": "radish-salad-with-parsley-capers-anchovy",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/radish-salad-with-parsley-capers-anchovy_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Carrot, Date, Pistachio, Herb",
+        "slug": "carrot-date-pistachio-herb",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/carrot-date-pistachio-herb_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "the lupo -- roberta's pizza",
+        "slug": "the-lupo-roberta-s-pizza",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/the-lupo-roberta-s-pizza_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "smothered burrito lewk",
+        "slug": "smothered-burrito-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/smothered-burrito-lewk_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Za'atar Flatbread",
+        "slug": "za-atar-flatbread",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/za-atar-flatbread_1.JPG"
+        ]
+    },
+    {
+        "category": "drinks",
+        "title": "Hibiscus Mezcal",
+        "slug": "hibiscus-mezcal",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/hibiscus-mezcal_1.jpg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "mexico city acai",
+        "slug": "mexico-city-acai",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mexico-city-acai_1.jpeg"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "Olive_Anchovy_Tart-",
+        "slug": "Olive_Anchovy_Tart-",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Olive_Anchovy_Tart-_1.webp"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Greens, Watermelon Radish, Parmesan",
+        "slug": "greens-watermelon-radish-parmesan",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/greens-watermelon-radish-parmesan_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "lamb_kebabs_on_the_grill",
+        "slug": "lamb_kebabs_on_the_grill",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lamb_kebabs_on_the_grill_1.png"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "eggplant_caviar",
+        "slug": "eggplant_caviar",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/eggplant_caviar_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "torta_pasqualina",
+        "slug": "torta_pasqualina",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/torta_pasqualina_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Israeli Lewk",
+        "slug": "israeli-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_3.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_5.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_6.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_7.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_8.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_9.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_10.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_11.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_12.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_13.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_14.png",
+            "https://db1kxxvrlszby.cloudfront.net/israeli-lewk_15.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": ".DS_Store",
+        "slug": ".DS_Store",
+        "image_urls": []
+    },
+    {
+        "category": "asian",
+        "title": "thai-cucumber-salad-1.jpeg",
+        "slug": "thai-cucumber-salad-1.jpeg",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/thai-cucumber-salad-1.jpeg_1.jpeg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Coconut_Flour_Brownies_The_Big_Mans_World_3",
+        "slug": "Coconut_Flour_Brownies_The_Big_Mans_World_3",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Coconut_Flour_Brownies_The_Big_Mans_World_3_1.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "escalivada-2",
+        "slug": "escalivada-2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/escalivada-2_1.JPG"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "roast-duck-with-sauce.png",
+        "slug": "roast-duck-with-sauce.png",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roast-duck-with-sauce.png_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "corn avocado salad",
+        "slug": "corn-avocado-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/corn-avocado-salad_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "lidia_ricotta_cheesecake_1",
+        "slug": "lidia_ricotta_cheesecake_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_ricotta_cheesecake_1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "IMG_5670",
+        "slug": "IMG_5670",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/IMG_5670_1.JPG"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "burdock-and-carrot-pickle.PNG",
+        "slug": "burdock-and-carrot-pickle.PNG",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/burdock-and-carrot-pickle.PNG_1.PNG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "banana-ice-cream",
+        "slug": "banana-ice-cream",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/banana-ice-cream_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Pomegranate Glazed Pork Skewers",
+        "slug": "pomegranate-glazed-pork-skewers",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pomegranate-glazed-pork-skewers_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/pomegranate-glazed-pork-skewers_2.JPG"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "thai-cucumber-salad-1",
+        "slug": "thai-cucumber-salad-1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/thai-cucumber-salad-1_1.jpeg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Watermelon Feta Mint",
+        "slug": "watermelon-fet-mint",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/watermelon-fet-mint_1.JPG"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "olive_crisps_2",
+        "slug": "olive_crisps_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/olive_crisps_2_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Safta - Lutenitsa",
+        "slug": "safta-lutenitsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-lutenitsa_1.JPG"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Herbal Electrolyte Lemonade",
+        "slug": "herbal-electrolyte-lemonade",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/herbal-electrolyte-lemonade_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Green Tahini",
+        "slug": "green-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/green-tahini_1.jpg",
+            "https://db1kxxvrlszby.cloudfront.net/green-tahini_2.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "escalivada-1",
+        "slug": "escalivada-1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/escalivada-1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - tahini chicken salad",
+        "slug": "safta-tahini-chicken-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-tahini-chicken-salad_1.jpg"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Cherry Salad",
+        "slug": "cherry-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/cherry-salad_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Types of Salad Greens",
+        "slug": "types-of-salad-greens",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/types-of-salad-greens_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Italian Dishes Lewk",
+        "slug": "italian-dishes-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_2.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_3.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_4.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_5.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_6.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_7.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_8.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_9.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_10.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_11.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_12.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_13.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_14.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_15.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_16.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_17.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_18.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_19.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_20.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_21.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_22.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_23.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_24.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_25.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_26.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_27.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_28.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_29.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_30.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_31.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_32.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_33.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_34.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_35.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_36.webp",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_37.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_38.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_39.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-dishes-lewk_40.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "arroz-de-setas",
+        "slug": "arroz-de-setas",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/arroz-de-setas_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "splendid_table_country_style_ragu_1",
+        "slug": "splendid_table_country_style_ragu_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/splendid_table_country_style_ragu_1_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "venetian_pepperonata",
+        "slug": "venetian_pepperonata",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/venetian_pepperonata_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "everyting_cake",
+        "slug": "everyting_cake",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/everyting_cake_1.png"
+        ]
+    },
+    {
+        "category": "sandwiches",
+        "title": "Screen_Shot_2024-08-26_at_2.22.38_PM",
+        "slug": "Screen_Shot_2024-08-26_at_2.22.38_PM",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Screen_Shot_2024-08-26_at_2.22.38_PM_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "layered yogurt flatbreads",
+        "slug": "layered-yogurt-flatbreads",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/layered-yogurt-flatbreads_1.pdf"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "orange-mexican-marinade",
+        "slug": "orange-mexican-marinade",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/orange-mexican-marinade_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - pita",
+        "slug": "safta-pita",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-pita_1.jpg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "ricotta_banana_bread",
+        "slug": "ricotta_banana_bread",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/ricotta_banana_bread_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Morrita Con Tomatillo Salsa",
+        "slug": "morrita-con-tomatillo-salsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/morrita-con-tomatillo-salsa_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Salsa de Chile Morita",
+        "slug": "salsa-de-chile-morita",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/salsa-de-chile-morita_1.jpeg"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Grapefruit Avocado Salad",
+        "slug": "grapefruit-avocado-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/grapefruit-avocado-salad_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "peach, mango, feta, green goddess",
+        "slug": "peach-mango-feta-green-goddess",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/peach-mango-feta-green-goddess_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "24hr Salted Lemon Spread",
+        "slug": "24hr-salted-lemon-spread",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/24hr-salted-lemon-spread_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "coconut pecan pie",
+        "slug": "coconut-pecan-pie",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/coconut-pecan-pie_1.png"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "smokey_pueblo",
+        "slug": "smokey_pueblo",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/smokey_pueblo_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Steak w/ Chimichurri",
+        "slug": "steak-w-chimichurri",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/steak-w-chimichurri_1.pdf",
+            "https://db1kxxvrlszby.cloudfront.net/steak-w-chimichurri_2.webp"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "chicken_shawarma_sandwichen__ottolenghi_recipes",
+        "slug": "chicken_shawarma_sandwichen__ottolenghi_recipes",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chicken_shawarma_sandwichen__ottolenghi_recipes_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Asian Slaw with miso dressing",
+        "slug": "asian-slaw-with-miso-dressing",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/asian-slaw-with-miso-dressing_1.pdf"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "steak-lettuce-cups",
+        "slug": "steak-lettuce-cups",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/steak-lettuce-cups_1.jpeg"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "poc chuc",
+        "slug": "poc-chuc",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/poc-chuc_1.jpeg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Lidia_ricotta_cheesecake_2",
+        "slug": "Lidia_ricotta_cheesecake_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Lidia_ricotta_cheesecake_2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "pizza bonci rome",
+        "slug": "pizza-bonci-rome",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pizza-bonci-rome_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "harissa, cauliflower, pomegranate.jpeg",
+        "slug": "harissa-cauliflower-pomegranate-jpeg",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/harissa-cauliflower-pomegranate-jpeg_1.jpeg"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "lentil_salad_1",
+        "slug": "lentil_salad_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lentil_salad_1_1.JPG"
+        ]
+    },
+    {
+        "category": "menus",
+        "title": "Makoto",
+        "slug": "makoto",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/makoto_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pasta Lewk!",
+        "slug": "pasta-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pasta-lewk_1.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/pasta-lewk_2.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "hrous_2",
+        "slug": "hrous_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/hrous_2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_ziti_broccoli_rabe_sausage_1",
+        "slug": "lidia_ziti_broccoli_rabe_sausage_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_ziti_broccoli_rabe_sausage_1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Safta - Bulgarian Lamb Kebabs",
+        "slug": "safta-bulgarian-lamb-kebabs",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-bulgarian-lamb-kebabs_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/safta-bulgarian-lamb-kebabs_2.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "mushrooms, green tahini",
+        "slug": "mushrooms-green-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mushrooms-green-tahini_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Sumac Grilled Chicken Salad with Avo and Citrus",
+        "slug": "sumac-grilled-chicken-salad-with-avo-and-citrus",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sumac-grilled-chicken-salad-with-avo-and-citrus_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "carrot_cake",
+        "slug": "carrot_cake",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/carrot_cake_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "safta - israeli salad",
+        "slug": "safta-israeli-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-israeli-salad_1.jpg"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Table Lewk!",
+        "slug": "table-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/table-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/table-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/table-lewk_3.png"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "spicy-oil.png",
+        "slug": "spicy-oil.png",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/spicy-oil.png_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "chocolate_zucchini_cake_2",
+        "slug": "chocolate_zucchini_cake_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chocolate_zucchini_cake_2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "venetian_potato_fritatta",
+        "slug": "venetian_potato_fritatta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/venetian_potato_fritatta_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Avocado and Sardine Toast",
+        "slug": "avocado-and-sardine-toast",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/avocado-and-sardine-toast_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "byblos spice",
+        "slug": "byblos-spice",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/byblos-spice_1.png"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "chimi-churi",
+        "slug": "chimi-churi",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chimi-churi_1.png"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "mexican cocktails",
+        "slug": "mexican-cocktails",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mexican-cocktails_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/mexican-cocktails_2.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "catalan-meatballs-1",
+        "slug": "catalan-meatballs-1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/catalan-meatballs-1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "scallion_nigella_flatbreads",
+        "slug": "scallion_nigella_flatbreads",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/scallion_nigella_flatbreads_1.JPG"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "Salsa-de-Cacahuate-MuyDelish",
+        "slug": "Salsa-de-Cacahuate-MuyDelish",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Salsa-de-Cacahuate-MuyDelish_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "zabaione",
+        "slug": "zabaione",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/zabaione_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_basic_crispelle",
+        "slug": "lidia_basic_crispelle",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_basic_crispelle_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Radicchio, Walnut, Grape, Pomegranate",
+        "slug": "radicchio-walnut-grape-pomegranate",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/radicchio-walnut-grape-pomegranate_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "eggplant_salad_balck_garlic_tahini",
+        "slug": "eggplant_salad_balck_garlic_tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/eggplant_salad_balck_garlic_tahini_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Summer_White_Bean_Salad_Foodcentric_Life",
+        "slug": "Summer_White_Bean_Salad_Foodcentric_Life",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Summer_White_Bean_Salad_Foodcentric_Life_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "watermelon salad",
+        "slug": "watermelon-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/watermelon-salad_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - brussel sprouts tahini",
+        "slug": "safta-brussel-sprouts-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-brussel-sprouts-tahini_1.jpg"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "thai-cucumber-salad-2.JPG",
+        "slug": "thai-cucumber-salad-2.JPG",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/thai-cucumber-salad-2.JPG_1.JPG"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "tapenade",
+        "slug": "tapenade",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tapenade_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "sonoran_hummus_2",
+        "slug": "sonoran_hummus_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sonoran_hummus_2_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "IMG_5671",
+        "slug": "IMG_5671",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/IMG_5671_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "zatah + olive stuffed challah",
+        "slug": "zatah-olive-stuffed-challah",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/zatah-olive-stuffed-challah_1.jpeg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Safta - Harissa",
+        "slug": "safta-harissa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-harissa_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Furikake",
+        "slug": "furikake",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/furikake_1.jpeg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "lox, eggs, onion",
+        "slug": "lox-eggs-onion",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lox-eggs-onion_1.png"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "tomatillo-avo-sauce",
+        "slug": "tomatillo-avo-sauce",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tomatillo-avo-sauce_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Israeli Salad with Pickles and Mint - Tori Avey",
+        "slug": "israeli-salad-with-pickles-and-mint-tori-avey",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/israeli-salad-with-pickles-and-mint-tori-avey_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "roasted carrot, pepita green goddess, feta",
+        "slug": "roasted-carrot-pepita-green-goddess-feta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted-carrot-pepita-green-goddess-feta_1.png"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Israeli Cocktails",
+        "slug": "israeli-cocktails",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/israeli-cocktails_1.JPG"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "scallion-seseme-pancakes.JPG",
+        "slug": "scallion-seseme-pancakes.JPG",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/scallion-seseme-pancakes.JPG_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Fruit Plate",
+        "slug": "fruit-plate",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/fruit-plate_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/fruit-plate_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/fruit-plate_3.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "escalivada-3",
+        "slug": "escalivada-3",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/escalivada-3_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Crostino di Zucca, Ricotta e Parmigiano",
+        "slug": "crostino-di-zucca-ricotta-e-parmigiano",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/crostino-di-zucca-ricotta-e-parmigiano_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Weekend and Holidays Dressings",
+        "slug": "weekend-and-holidays-dressings",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/weekend-and-holidays-dressings_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "splendid_table_lasange_verde_emilia_romagna_2",
+        "slug": "splendid_table_lasange_verde_emilia_romagna_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/splendid_table_lasange_verde_emilia_romagna_2_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "challah",
+        "slug": "challah",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/challah_1.jpeg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "almond_cakes_with_brown_butter_1",
+        "slug": "almond_cakes_with_brown_butter_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/almond_cakes_with_brown_butter_1_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Red Chimichurri",
+        "slug": "red-chimichurri",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/red-chimichurri_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Radicchio with Pancetta",
+        "slug": "radicchio-with-pancetta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/radicchio-with-pancetta_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Pecan Dough",
+        "slug": "pecan-dough",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pecan-dough_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Stewed Beef with Pasilla Chiles",
+        "slug": "stewed-beef-with-pasilla-chiles",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/stewed-beef-with-pasilla-chiles_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/stewed-beef-with-pasilla-chiles_2.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Mojo Marinade",
+        "slug": "mojo-marinade",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mojo-marinade_1.pdf"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": ".DS_Store",
+        "slug": ".DS_Store",
+        "image_urls": []
+    },
+    {
+        "category": "asian",
+        "title": "thai-cucumber-salad-2",
+        "slug": "thai-cucumber-salad-2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/thai-cucumber-salad-2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "chicken + green herbs",
+        "slug": "chicken-green-herbs",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chicken-green-herbs_1.png"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "kabocha, nori, scallions",
+        "slug": "kabocha-nori-scallions",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/kabocha-nori-scallions_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Chickpea_Salad_with_Tomatoes_and_Olives_Kalyns_Kitchen",
+        "slug": "Chickpea_Salad_with_Tomatoes_and_Olives_Kalyns_Kitchen",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Chickpea_Salad_with_Tomatoes_and_Olives_Kalyns_Kitchen_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": ".DS_Store",
+        "slug": ".DS_Store",
+        "image_urls": []
+    },
+    {
+        "category": "italian",
+        "title": "modena_lentils_1",
+        "slug": "modena_lentils_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/modena_lentils_1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Lewk!",
+        "slug": "lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_3.jpeg",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_4.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_5.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_6.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_7.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_8.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_9.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_10.PNG",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_11.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_12.webp",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_13.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_14.png",
+            "https://db1kxxvrlszby.cloudfront.net/lewk_15.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Salsa Para Tortas Ahogadas",
+        "slug": "salsa-para-tortas-ahogadas",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/salsa-para-tortas-ahogadas_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/salsa-para-tortas-ahogadas_2.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_pasta_dough_2",
+        "slug": "lidia_pasta_dough_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_pasta_dough_2_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - tahini mayo",
+        "slug": "safta-tahini-mayo",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-tahini-mayo_1.jpg"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "almond_cakes_with_brown_butter_2",
+        "slug": "almond_cakes_with_brown_butter_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/almond_cakes_with_brown_butter_2_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Jicama and Orange Snack",
+        "slug": "jicama-and-orange-snack",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/jicama-and-orange-snack_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_pasta_dough_1",
+        "slug": "lidia_pasta_dough_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_pasta_dough_1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Healthy_Mediterranean_Chopped_Salad_Savoring_Italy",
+        "slug": "Healthy_Mediterranean_Chopped_Salad_Savoring_Italy",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Healthy_Mediterranean_Chopped_Salad_Savoring_Italy_1.pdf"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "spicy-oil",
+        "slug": "spicy-oil",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/spicy-oil_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Locatelli's foolproof focaccia",
+        "slug": "locatelli-s-foolproof-focaccia",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/locatelli-s-foolproof-focaccia_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "anchovy butter toast",
+        "slug": "anchovy-butter-toast",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/anchovy-butter-toast_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Tomato, Cucumber, Dill, Kefir",
+        "slug": "tomato-cucumber-dill-kefir",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tomato-cucumber-dill-kefir_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "party_cake",
+        "slug": "party_cake",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/party_cake_1.png"
+        ]
+    },
+    {
+        "category": "sandwiches",
+        "title": "Sandwiches Lewk",
+        "slug": "sandwiches-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_4.png",
+            "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_5.png",
+            "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_6.png",
+            "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_7.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "cheesus christ -- roberta's pizza",
+        "slug": "cheesus-christ-roberta-s-pizza",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/cheesus-christ-roberta-s-pizza_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Pasta de Cacahuate",
+        "slug": "pasta-de-cacahuate",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pasta-de-cacahuate_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - prepared tahini",
+        "slug": "safta-prepared-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-prepared-tahini_1.jpg"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "ciambotta",
+        "slug": "ciambotta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/ciambotta_1.pdf"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "crema_liquid",
+        "slug": "crema_liquid",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/crema_liquid_1.JPG"
+        ]
+    },
+    {
+        "category": "sandwiches",
+        "title": "Screen_Shot_2024-08-26_at_2.22.20_PM",
+        "slug": "Screen_Shot_2024-08-26_at_2.22.20_PM",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Screen_Shot_2024-08-26_at_2.22.20_PM_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_ziti_broccoli_rabe_sausage_2",
+        "slug": "lidia_ziti_broccoli_rabe_sausage_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_ziti_broccoli_rabe_sausage_2_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Radicchio!",
+        "slug": "radicchio",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/radicchio_1.png"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "scallion-seseme-pancakes",
+        "slug": "scallion-seseme-pancakes",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/scallion-seseme-pancakes_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Green Salad - Via Carota",
+        "slug": "green-salad-via-carota",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/green-salad-via-carota_1.pdf"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Turmeric Root Juice",
+        "slug": "turmeric-root-juice",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/turmeric-root-juice_1.PNG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Shopping Guide",
+        "slug": "shopping-guide",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/shopping-guide_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Saffron Honey",
+        "slug": "saffron-honey",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/saffron-honey_1.JPG"
+        ]
+    },
+    {
+        "category": "bbq",
+        "title": "hoisin_bbq_sauce",
+        "slug": "hoisin_bbq_sauce",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/hoisin_bbq_sauce_1.JPG"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "ratatouille",
+        "slug": "ratatouille",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "japanese green beans",
+        "slug": "japanese-green-beans",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/japanese-green-beans_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "rotisserie chicken sauces - winner",
+        "slug": "rotisserie-chicken-sauces-winner",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/rotisserie-chicken-sauces-winner_1.png"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "lentil_salad_2",
+        "slug": "lentil_salad_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lentil_salad_2_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "smoothie-bowl-1",
+        "slug": "smoothie-bowl-1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/smoothie-bowl-1_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "chocolate_zucchini_cake_1",
+        "slug": "chocolate_zucchini_cake_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chocolate_zucchini_cake_1_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Ratatouille",
+        "slug": "ratatouille",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.pdf"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "spanish_tomato_toast",
+        "slug": "spanish_tomato_toast",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/spanish_tomato_toast_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "russ & daughters",
+        "slug": "russ-daughters",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/russ-daughters_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "chocolate_pudding",
+        "slug": "chocolate_pudding",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chocolate_pudding_1.png"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Grilled Chicken with Pineapple-Cucumber Salsa",
+        "slug": "grilled-chicken-with-pineapple-cucumber-salsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/grilled-chicken-with-pineapple-cucumber-salsa_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "safta - brussel srout, almond, golden rain salad",
+        "slug": "safta-brussel-srout-almond-golden-rain-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-brussel-srout-almond-golden-rain-salad_1.jpg"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Cilantro Jalapen\u0303o Sauce",
+        "slug": "cilantro-jalapeno-sauce",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/cilantro-jalapeno-sauce_1.pdf"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "roast-duck-with-sauce",
+        "slug": "roast-duck-with-sauce",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roast-duck-with-sauce_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Schug -- yemeni",
+        "slug": "schug-yemeni",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/schug-yemeni_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta menu",
+        "slug": "safta-menu",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-menu_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "parsely_radish_salad",
+        "slug": "parsely_radish_salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/parsely_radish_salad_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "roasted carrots + yogurt",
+        "slug": "roasted-carrots-yogurt",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted-carrots-yogurt_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Salsa de Cascabel",
+        "slug": "salsa-de-cascabel",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/salsa-de-cascabel_1.jpeg"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "raw beans",
+        "slug": "raw-beans",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/raw-beans_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Steak Salad with Creamy Balsamic",
+        "slug": "steak-salad-with-creamy-balsamic",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/steak-salad-with-creamy-balsamic_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "safta - brussels with mustard and almonds",
+        "slug": "safta-brussels-with-mustard-and-almonds",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-brussels-with-mustard-and-almonds_1.jpg"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Habanero Salsa",
+        "slug": "habanero-salsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/habanero-salsa_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_basil_parsley_walnut_pesto",
+        "slug": "lidia_basil_parsley_walnut_pesto",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_basil_parsley_walnut_pesto_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Chickpea_Stew_with_Honey-Roasted_Cauliflower_&_Root_Vegetables_Blue_Zones",
+        "slug": "Chickpea_Stew_with_Honey-Roasted_Cauliflower_&_Root_Vegetables_Blue_Zones",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Chickpea_Stew_with_Honey-Roasted_Cauliflower_&_Root_Vegetables_Blue_Zones_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "splendid_table_lasange_verde_emilia_romagna_1",
+        "slug": "splendid_table_lasange_verde_emilia_romagna_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/splendid_table_lasange_verde_emilia_romagna_1_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Carnitas",
+        "slug": "carnitas",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/carnitas_1.JPG"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "romenesco",
+        "slug": "romenesco",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/romenesco_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "lewk mexican table",
+        "slug": "lewk-mexican-table",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lewk-mexican-table_1.jpeg"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "Salsa-De-Chiltepin-MuyDelish",
+        "slug": "Salsa-De-Chiltepin-MuyDelish",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Salsa-De-Chiltepin-MuyDelish_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "hummus with lamb ragu, harissa -- shaya",
+        "slug": "hummus-with-lamb-ragu-harissa-shaya",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/hummus-with-lamb-ragu-harissa-shaya_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Caper Raisin Anchovy Vinegarette",
+        "slug": "caper-raisin-anchovy-vinegarette",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/caper-raisin-anchovy-vinegarette_1.jpeg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "harissa roasted chicken",
+        "slug": "harissa-roasted-chicken",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/harissa-roasted-chicken_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Date and Root Vegetable Stew",
+        "slug": "date-and-root-vegetable-stew",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/date-and-root-vegetable-stew_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "IMG_5481",
+        "slug": "IMG_5481",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/IMG_5481_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Hummus Two Ways",
+        "slug": "hummus-two-ways",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/hummus-two-ways_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/hummus-two-ways_2.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Fudgy_Flourless_Almond_Butter_Brownies_Google_Docs",
+        "slug": "Fudgy_Flourless_Almond_Butter_Brownies_Google_Docs",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Fudgy_Flourless_Almond_Butter_Brownies_Google_Docs_1.pdf"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "steak-lettuce-cups.jpeg",
+        "slug": "steak-lettuce-cups.jpeg",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/steak-lettuce-cups.jpeg_1.jpeg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Muhammara",
+        "slug": "muhammara",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/muhammara_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/muhammara_2.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Roasted Cauliflower Steaks with Harissa Tahini",
+        "slug": "roasted-cauliflower-steaks-with-harissa-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted-cauliflower-steaks-with-harissa-tahini_1.pdf"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "smoothie-menu",
+        "slug": "smoothie-menu",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/smoothie-menu_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Brussels with Lemon, Anchovy, Walnuts, Pecorino",
+        "slug": "brussels-with-lemon-anchovy-walnuts-pecorino",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/brussels-with-lemon-anchovy-walnuts-pecorino_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/brussels-with-lemon-anchovy-walnuts-pecorino_2.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Grapefruit Salad, Chili, Lime, Peanut, Greens",
+        "slug": "grapefruit-salad-chili-lime-peanut-greens",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/grapefruit-salad-chili-lime-peanut-greens_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Lutenitsa",
+        "slug": "lutenitsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lutenitsa_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Harissa and Zhoug",
+        "slug": "harissa-and-zhoug",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/harissa-and-zhoug_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "splendid_table_country_style_ragu_2",
+        "slug": "splendid_table_country_style_ragu_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/splendid_table_country_style_ragu_2_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Coconut_Flour_Brownies_The_Big_Mans_World_2",
+        "slug": "Coconut_Flour_Brownies_The_Big_Mans_World_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Coconut_Flour_Brownies_The_Big_Mans_World_2_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "carrot green tahini",
+        "slug": "carrot-green-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/carrot-green-tahini_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Italian Kitchen Lewk!",
+        "slug": "italian-kitchen-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_1.jpg",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_2.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_3.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_4.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_5.png",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_6.jpg",
+            "https://db1kxxvrlszby.cloudfront.net/italian-kitchen-lewk_7.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Blackened Chicken Quinoa",
+        "slug": "blackened-chicken-quinoa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/blackened-chicken-quinoa_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pizza broccoli rabe ricotta",
+        "slug": "pizza-broccoli-rabe-ricotta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pizza-broccoli-rabe-ricotta_1.jpg"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_bolognese_sauce_1",
+        "slug": "lidia_bolognese_sauce_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_bolognese_sauce_1_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Rosas_Mud_Cake",
+        "slug": "Rosas_Mud_Cake",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Rosas_Mud_Cake_1.pdf"
+        ]
+    },
+    {
+        "category": "bbq",
+        "title": "Bbq Lewk",
+        "slug": "bbq-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/bbq-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/bbq-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/bbq-lewk_3.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Roasted Carrot and Feta Salad with parsley",
+        "slug": "roasted-carrot-and-feta-salad-with-parsley",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted-carrot-and-feta-salad-with-parsley_1.jpeg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Greek_style_pita_Ottolenghi_Recipes",
+        "slug": "Greek_style_pita_Ottolenghi_Recipes",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Greek_style_pita_Ottolenghi_Recipes_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Peaches, Mango, Shatta",
+        "slug": "peaches-mango-shatta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/peaches-mango-shatta_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "anchovy, cheese, celery, black olive",
+        "slug": "anchovy-cheese-celery-black-olive",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/anchovy-cheese-celery-black-olive_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pizza Lewk!",
+        "slug": "pizza-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pizza-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/pizza-lewk_2.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "tomato, caramelized onions galette",
+        "slug": "tomato-caramelized-onions-galette",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tomato-caramelized-onions-galette_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_mushroom_ragu",
+        "slug": "lidia_mushroom_ragu",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_mushroom_ragu_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Pepper Reference",
+        "slug": "pepper-reference",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pepper-reference_1.JPG"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "asian-slaw.png",
+        "slug": "asian-slaw.png",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/asian-slaw.png_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_fresh_porcini_sauce_2",
+        "slug": "lidia_fresh_porcini_sauce_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_fresh_porcini_sauce_2_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Peaches, Tomato, Pepita, Cucumber, Avo, Feta",
+        "slug": "peaches-tomato-pepita-cucumber-avo-feta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/peaches-tomato-pepita-cucumber-avo-feta_1.png"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "roasted_vegetables",
+        "slug": "roasted_vegetables",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted_vegetables_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Red Pepper Walnut Dip",
+        "slug": "red-pepper-walnut-dip",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/red-pepper-walnut-dip_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "splendid_table_light_ragu_2",
+        "slug": "splendid_table_light_ragu_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/splendid_table_light_ragu_2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "herbed chicken",
+        "slug": "herbed-chicken",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/herbed-chicken_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "safta - arugula, citrus, zahtar",
+        "slug": "safta-arugula-citrus-zahtar",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-arugula-citrus-zahtar_1.jpg"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Grilled Shrimp + Chermoula",
+        "slug": "grilled-shrimp-chermoula",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/grilled-shrimp-chermoula_1.webp"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Soy-Braised Kabocha Squash",
+        "slug": "soy-braised-kabocha-squash",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/soy-braised-kabocha-squash_1.pdf"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Parmesan, Mixed Green Salad",
+        "slug": "parmesan-mixed-green-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/parmesan-mixed-green-salad_1.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "tortilla-1",
+        "slug": "tortilla-1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tortilla-1_1.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Best_Banana_Cake_Ever",
+        "slug": "Best_Banana_Cake_Ever",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Best_Banana_Cake_Ever_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "the white & green -- roberta's pizza",
+        "slug": "the-white-green-roberta-s-pizza",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/the-white-green-roberta-s-pizza_1.JPG"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Cardamom Cold Brew",
+        "slug": "cardamom-cold-brew",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/cardamom-cold-brew_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Tortillas de Harina",
+        "slug": "tortillas-de-harina",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tortillas-de-harina_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/tortillas-de-harina_2.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/tortillas-de-harina_3.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Moroccan Carrot Salad",
+        "slug": "moroccan-carrot-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/moroccan-carrot-salad_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Lemon Chicken Skewers",
+        "slug": "lemon-chicken-skewers",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lemon-chicken-skewers_1.png"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - hummus",
+        "slug": "safta-hummus",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-hummus_1.jpg",
+            "https://db1kxxvrlszby.cloudfront.net/safta-hummus_2.jpg"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "tomato_bread",
+        "slug": "tomato_bread",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tomato_bread_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "anchovy pinxos",
+        "slug": "anchovy-pinxos",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/anchovy-pinxos_1.jpg"
+        ]
+    },
+    {
+        "category": "other",
+        "title": "Sprinkle Pie (greek)",
+        "slug": "sprinkle-pie-greek",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sprinkle-pie-greek_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Labaneh",
+        "slug": "labaneh",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/labaneh_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Avocado Salad Dressing",
+        "slug": "avocado-salad-dressing",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/avocado-salad-dressing_1.pdf"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "chiletepin oil, iceberg crunch",
+        "slug": "chiletepin-oil-iceberg-crunch",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chiletepin-oil-iceberg-crunch_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Puntarelle with Lemon, Caper, Anchovy, Pecorino",
+        "slug": "puntarelle-with-lemon-caper-anchovy-pecorino",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/puntarelle-with-lemon-caper-anchovy-pecorino_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "peas_and_rice",
+        "slug": "peas_and_rice",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/peas_and_rice_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "salad + grilled halloumi",
+        "slug": "salad-grilled-halloumi",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/salad-grilled-halloumi_1.png"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "asian-slaw",
+        "slug": "asian-slaw",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/asian-slaw_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Kale Sauce Papardelle",
+        "slug": "kale-sauce-papardelle",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/kale-sauce-papardelle_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pan di Ramerino",
+        "slug": "pan-di-ramerino",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pan-di-ramerino_1.pdf"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Date Almond Milk",
+        "slug": "date-almond-milk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/date-almond-milk_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Lamb Skewers",
+        "slug": "lamb-skewers",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lamb-skewers_1.png"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "French Lewk",
+        "slug": "french-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/french-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/french-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/french-lewk_3.webp"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "SalsaDeChileDeArbolRecipe-MuyDelish",
+        "slug": "SalsaDeChileDeArbolRecipe-MuyDelish",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/SalsaDeChileDeArbolRecipe-MuyDelish_1.pdf"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Green Mole",
+        "slug": "green-mole",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/green-mole_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/green-mole_2.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pesto Pizza",
+        "slug": "pesto-pizza",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pesto-pizza_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Brussels, Squash, Pecans, Cranberries",
+        "slug": "brussels-squash-pecans-cranberries",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/brussels-squash-pecans-cranberries_1.jpeg"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "mezcal, watermelon, lime, basil, serrano",
+        "slug": "mezcal-watermelon-lime-basil-serrano",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mezcal-watermelon-lime-basil-serrano_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "squash soup with pepitas",
+        "slug": "squash-soup-with-pepitas",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/squash-soup-with-pepitas_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Pea and Asparagus Pasta",
+        "slug": "pea-and-asparagus-pasta",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pea-and-asparagus-pasta_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "lidia_pasta_dough_3",
+        "slug": "lidia_pasta_dough_3",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lidia_pasta_dough_3_1.JPG"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "burdock-and-carrot-pickle",
+        "slug": "burdock-and-carrot-pickle",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/burdock-and-carrot-pickle_1.PNG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "chermoula",
+        "slug": "chermoula",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chermoula_1.JPG"
+        ]
+    },
+    {
+        "category": "french",
+        "title": "pissaladiera",
+        "slug": "pissaladiera",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pissaladiera_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "pepper_antipasto",
+        "slug": "pepper_antipasto",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pepper_antipasto_1.png"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Creamy Cilantro Lime Dressing",
+        "slug": "creamy-cilantro-lime-dressing",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/creamy-cilantro-lime-dressing_1.pdf"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Pork for Stuffed Chiles",
+        "slug": "pork-for-stuffed-chiles",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pork-for-stuffed-chiles_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "sour duck tomato peach salad",
+        "slug": "sour-duck-tomato-peach-salad",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sour-duck-tomato-peach-salad_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Mexican Rice",
+        "slug": "mexican-rice",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mexican-rice_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Broccoli Rab",
+        "slug": "broccoli-rab",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/broccoli-rab_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/broccoli-rab_2.png"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "mezcal, cucumber, apple",
+        "slug": "mezcal-cucumber-apple",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mezcal-cucumber-apple_1.png"
+        ]
+    },
+    {
+        "category": "spanish",
+        "title": "anchovy-olive-pate-1",
+        "slug": "anchovy-olive-pate-1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/anchovy-olive-pate-1_1.JPG"
+        ]
+    },
+    {
+        "category": "salads",
+        "title": "Caper Raisin Dressing",
+        "slug": "caper-raisin-dressing",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/caper-raisin-dressing_1.pdf",
+            "https://db1kxxvrlszby.cloudfront.net/caper-raisin-dressing_2.png"
+        ]
+    },
+    {
+        "category": "sauces",
+        "title": "Mojo-De-Ajo-MuyDelish",
+        "slug": "Mojo-De-Ajo-MuyDelish",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/Mojo-De-Ajo-MuyDelish_1.pdf"
+        ]
+    },
+    {
+        "category": "asian",
+        "title": "sweet-potato-roti",
+        "slug": "sweet-potato-roti",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sweet-potato-roti_1.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Cochinita",
+        "slug": "cochinita",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/cochinita_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/cochinita_2.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "summer_berry_trifle",
+        "slug": "summer_berry_trifle",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/summer_berry_trifle_1.pdf"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "Chocolate Orange Babka",
+        "slug": "chocolate-orange-babka",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chocolate-orange-babka_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/chocolate-orange-babka_2.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "Tacos lewk!",
+        "slug": "tacos-lewk",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_1.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_2.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_3.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_4.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_5.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_6.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_7.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_8.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_9.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_10.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_11.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_12.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_13.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_14.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_15.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_16.png",
+            "https://db1kxxvrlszby.cloudfront.net/tacos-lewk_17.png"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "pumpkin seed salsa",
+        "slug": "pumpkin-seed-salsa",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/pumpkin-seed-salsa_1.jpg"
+        ]
+    },
+    {
+        "category": "beverages",
+        "title": "Green Tea",
+        "slug": "green-tea",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/green-tea_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "speckenwolf -- roberta's pizza",
+        "slug": "speckenwolf-roberta-s-pizza",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/speckenwolf-roberta-s-pizza_1.JPG"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "chicken, sweet potato, black bean tacos",
+        "slug": "chicken-sweet-potato-black-bean-tacos",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/chicken-sweet-potato-black-bean-tacos_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "anchovy, roasted red pepper, olive",
+        "slug": "anchovy-roasted-red-pepper-olive",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/anchovy-roasted-red-pepper-olive_1.jpg"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Lamb Meatballs",
+        "slug": "lamb-meatballs",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/lamb-meatballs_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "Roasted Beets with Tahini",
+        "slug": "roasted-beets-with-tahini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/roasted-beets-with-tahini_1.pdf"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "garlic_broccoli_rabe",
+        "slug": "garlic_broccoli_rabe",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/garlic_broccoli_rabe_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "splendid_table_light_ragu_1",
+        "slug": "splendid_table_light_ragu_1",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/splendid_table_light_ragu_1_1.JPG"
+        ]
+    },
+    {
+        "category": "israeli",
+        "title": "safta - dukkha",
+        "slug": "safta-dukkha",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/safta-dukkha_1.jpg"
+        ]
+    },
+    {
+        "category": "mexican",
+        "title": "sweet potato soup with pepitas",
+        "slug": "sweet-potato-soup-with-pepitas",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/sweet-potato-soup-with-pepitas_1.png"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Italian Salsa Verde",
+        "slug": "italian-salsa-verde",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/italian-salsa-verde_1.pdf"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "modena_lentils_2",
+        "slug": "modena_lentils_2",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/modena_lentils_2_1.JPG"
+        ]
+    },
+    {
+        "category": "italian",
+        "title": "Mushrooms Stuffed with Olives and Porcini",
+        "slug": "mushrooms-stuffed-with-olives-and-porcini",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/mushrooms-stuffed-with-olives-and-porcini_1.JPG",
+            "https://db1kxxvrlszby.cloudfront.net/mushrooms-stuffed-with-olives-and-porcini_2.JPG"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "saffron_vanila_snickerdoodles",
+        "slug": "saffron_vanila_snickerdoodles",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/saffron_vanila_snickerdoodles_1.png"
+        ]
+    },
+    {
+        "category": "dessert",
+        "title": "crema_custard",
+        "slug": "crema_custard",
+        "image_urls": [
+            "https://db1kxxvrlszby.cloudfront.net/crema_custard_1.JPG"
+        ]
+    }
+]

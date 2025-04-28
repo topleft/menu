@@ -47,16 +47,16 @@ def add(
                 recipe_data = json.load(f)
                 existing_recipe = get_recipe(recipe_input.slug, recipe_data)
 
-            if existing_recipe:
-                print(f'Existing recipe found for slug "{recipe_input.slug}"')
-                update = typer.confirm("Update?")
-                if not update:
-                    print(f"Skipped {recipe_input.slug}.")
-                    continue
-                else:
-                    # remove recipe from json so it is not duplicated
-                    with open(recipe_data_path, "r+") as f:
-                        delete_recipe(existing_recipe.slug, f)
+            # if existing_recipe:
+            #     print(f'Existing recipe found for slug "{recipe_input.slug}"')
+            #     update = typer.confirm("Update?")
+            #     if not update:
+            #         print(f"Skipped {recipe_input.slug}.")
+            #         continue
+            #     else:
+            #         # remove recipe from json so it is not duplicated
+            #         with open(recipe_data_path, "r+") as f:
+            #             delete_recipe(existing_recipe.slug, f)
 
             print(f"Uploading image(s)")
 
