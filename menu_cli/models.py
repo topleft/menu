@@ -11,6 +11,10 @@ categories = [
     "israeli",
     "desserts",
     "beverages",
+    "asian",
+    "sandwiches",
+    "sauces",
+    "french"
 ]
 
 
