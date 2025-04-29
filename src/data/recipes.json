@@ -8,7 +8,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Asian Slaw with miso dressing",
     "slug": "asian-slaw-with-miso-dressing",
     "image_urls": [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Avocado Salad Dressing",
     "slug": "avocado-salad-dressing",
     "image_urls": [
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Blackened Chicken Quinoa",
     "slug": "blackened-chicken-quinoa",
     "image_urls": [
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Brussels, Squash, Pecans, Cranberries",
     "slug": "brussels-squash-pecans-cranberries",
     "image_urls": [
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Steak w/ Chimichurri",
     "slug": "steak-w-chimichurri",
     "image_urls": [
@@ -49,7 +49,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Cherry Salad",
     "slug": "cherry-salad",
     "image_urls": [
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Cilantro Jalapeño Sauce",
     "slug": "cilantro-jalapeno-sauce",
     "image_urls": [
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Corn Avo Salad",
     "slug": "corn-avo-salad",
     "image_urls": [
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Creamy Cilantro Lime Dressing",
     "slug": "creamy-cilantro-lime-dressing",
     "image_urls": [
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Fruit Plate",
     "slug": "fruit-plate",
     "image_urls": [
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Grapefruit Avocado Salad",
     "slug": "grapefruit-avocado-salad",
     "image_urls": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Grapefruit Cranberry Walnut Salad",
     "slug": "grapefruit-cranberry-walnut-salad",
     "image_urls": [
@@ -107,7 +107,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Grapefruit Salad, Chili, Lime, Peanut, Greens",
     "slug": "grapefruit-salad-chili-lime-peanut-greens",
     "image_urls": [
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Green Salad - Via Carota",
     "slug": "green-salad-via-carota",
     "image_urls": [
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Greens, Watermelon Radish, Parmesan",
     "slug": "greens-watermelon-radish-parmesan",
     "image_urls": [
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Types of Salad Greens",
     "slug": "types-of-salad-greens",
     "image_urls": [
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Tomato, Melon, Hot Chile with Burrata",
     "slug": "tomato-melon-hot-chile-with-burrata",
     "image_urls": [
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Caper Raisin Anchovy Vinegarette",
     "slug": "caper-raisin-anchovy-vinegarette",
     "image_urls": [
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Sumac Grilled Chicken Salad with Avo and Citrus",
     "slug": "sumac-grilled-chicken-salad-with-avo-and-citrus",
     "image_urls": [
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Kale, Squash, Tahini, Pepitas",
     "slug": "kale-squash-tahini-pepitas",
     "image_urls": [
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Radicchio, Walnut, Grape, Pomegranate",
     "slug": "radicchio-walnut-grape-pomegranate",
     "image_urls": [
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Radicchio!",
     "slug": "radicchio",
     "image_urls": [
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Weekend and Holidays Dressings",
     "slug": "weekend-and-holidays-dressings",
     "image_urls": [
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Parmesan, Mixed Green Salad",
     "slug": "parmesan-mixed-green-salad",
     "image_urls": [
@@ -236,7 +236,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Carrot, Date, Pistachio, Herb",
     "slug": "carrot-date-pistachio-herb",
     "image_urls": [
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Tomato, Parsley, Manouri, Cucumbers",
     "slug": "tomato-parsley-manouri-cucumbers",
     "image_urls": [
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Peaches, Mango, Shatta",
     "slug": "peaches-mango-shatta",
     "image_urls": [
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Peaches, Tomato, Pepita, Cucumber, Avo, Feta",
     "slug": "peaches-tomato-pepita-cucumber-avo-feta",
     "image_urls": [
@@ -268,7 +268,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Tomato, Cucumber, Dill, Kefir",
     "slug": "tomato-cucumber-dill-kefir",
     "image_urls": [
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Brussels Sprouts Salad",
     "slug": "brussels-sprouts-salad",
     "image_urls": [
@@ -284,7 +284,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Steak Salad with Creamy Balsamic",
     "slug": "steak-salad-with-creamy-balsamic",
     "image_urls": [
@@ -368,7 +368,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Brussels with Lemon, Anchovy, Walnuts, Pecorino",
     "slug": "brussels-with-lemon-anchovy-walnuts-pecorino",
     "image_urls": [
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Caper Raisin Dressing",
     "slug": "caper-raisin-dressing",
     "image_urls": [
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "corn avocado salad",
     "slug": "corn-avocado-salad",
     "image_urls": [
@@ -1310,7 +1310,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "safta - arugula, citrus, zahtar",
     "slug": "safta-arugula-citrus-zahtar",
     "image_urls": [
@@ -1318,7 +1318,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "safta - brussel srout, almond, golden rain salad",
     "slug": "safta-brussel-srout-almond-golden-rain-salad",
     "image_urls": [
@@ -1326,7 +1326,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "safta - cherry, jalapeno cilantro salad",
     "slug": "safta-cherry-jalapeno-cilantro-salad",
     "image_urls": [
@@ -1342,7 +1342,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "safta - israeli salad",
     "slug": "safta-israeli-salad",
     "image_urls": [
@@ -1374,7 +1374,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "safta - brussels with mustard and almonds",
     "slug": "safta-brussels-with-mustard-and-almonds",
     "image_urls": [
@@ -1398,7 +1398,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "salad + grilled halloumi",
     "slug": "salad-grilled-halloumi",
     "image_urls": [
@@ -1455,7 +1455,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "Moroccan Carrot Salad",
     "slug": "moroccan-carrot-salad",
     "image_urls": [
@@ -1463,7 +1463,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "peach, mango, feta, green goddess",
     "slug": "peach-mango-feta-green-goddess",
     "image_urls": [
@@ -1471,7 +1471,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "pecan+ squash +brussels + pomegranate",
     "slug": "pecan-squash-brussels-pomegranate",
     "image_urls": [
@@ -1495,7 +1495,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "sour duck tomato peach salad",
     "slug": "sour-duck-tomato-peach-salad",
     "image_urls": [
@@ -1511,7 +1511,7 @@
     ]
   },
   {
-    "category": "salads",
+    "category": "salad",
     "title": "watermelon salad",
     "slug": "watermelon-salad",
     "image_urls": [
