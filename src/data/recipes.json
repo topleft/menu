@@ -1527,7 +1527,7 @@
     ]
   },
   {
-    "category": "other",
+    "category": "breakfast",
     "title": "Ricotta Crespelle",
     "slug": "ricotta-crespelle",
     "image_urls": [
@@ -2255,7 +2255,7 @@
     ]
   },
   {
-    "category": "other",
+    "category": "breakfast",
     "title": "Smoothie Bowl",
     "slug": "smoothie-bowl",
     "image_urls": [
@@ -2263,7 +2263,7 @@
     ]
   },
   {
-    "category": "other",
+    "category": "breakfast",
     "title": "Smoothie Menu",
     "slug": "smoothie-menu",
     "image_urls": [
