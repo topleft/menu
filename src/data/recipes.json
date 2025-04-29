@@ -1,6 +1,6 @@
 [
   {
-    "category": "other",
+    "category": "sauces",
     "title": "Red Chimichurri",
     "slug": "red-chimichurri",
     "image_urls": [
@@ -586,14 +586,6 @@
     "slug": "corn-esquites",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/corn-esquites_1.jpg"
-    ]
-  },
-  {
-    "category": "other",
-    "title": "raw beans",
-    "slug": "raw-beans",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/raw-beans_1.png"
     ]
   },
   {
@@ -1904,22 +1896,6 @@
     ]
   },
   {
-    "category": "sandwiches",
-    "title": "Screen Shot 2024 08 26 At 2.22.20 Pm",
-    "slug": "screen-shot-2024-08-26-at-2.22.20-pm",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/screen-shot-2024-08-26-at-2.22.20-pm_1.png"
-    ]
-  },
-  {
-    "category": "sandwiches",
-    "title": "Screen Shot 2024 08 26 At 2.22.38 Pm",
-    "slug": "screen-shot-2024-08-26-at-2.22.38-pm",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/screen-shot-2024-08-26-at-2.22.38-pm_1.png"
-    ]
-  },
-  {
     "category": "italian",
     "title": "Italian Kitchen Lewk",
     "slug": "italian-kitchen-lewk",
@@ -2262,11 +2238,18 @@
     ]
   },
   {
+    "category": "breakfast",
+    "title": "Egg Sandwiche",
+    "slug": "egg-sandwiche",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_1.png"
+    ]
+  },
+  {
     "category": "sandwiches",
     "title": "Sandwiches Lewk",
     "slug": "sandwiches-lewk",
     "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_1.png",
       "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_2.png",
       "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_3.png",
       "https://db1kxxvrlszby.cloudfront.net/sandwiches-lewk_4.png",
@@ -3270,7 +3253,7 @@
     ]
   },
   {
-    "category": "other",
+    "category": "sauces",
     "title": "papi chulo sauce",
     "slug": "papi-chulo-sauce",
     "image_urls": [
