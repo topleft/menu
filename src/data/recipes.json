@@ -402,22 +402,6 @@
     ]
   },
   {
-    "category": "menus",
-    "title": "Makoto",
-    "slug": "makoto",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/makoto_1.pdf"
-    ]
-  },
-  {
-    "category": "menus",
-    "title": "Itamae",
-    "slug": "itamae",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/itamae_1.png"
-    ]
-  },
-  {
     "category": "mexican",
     "title": "Cochinita",
     "slug": "cochinita",
