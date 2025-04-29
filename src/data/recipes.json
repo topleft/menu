@@ -394,7 +394,7 @@
     ]
   },
   {
-    "category": "desserts",
+    "category": "dessert",
     "title": "Pecan Dough",
     "slug": "pecan-dough",
     "image_urls": [
@@ -509,7 +509,7 @@
     ]
   },
   {
-    "category": "desserts",
+    "category": "breakfast",
     "title": "mexico city acai",
     "slug": "mexico-city-acai",
     "image_urls": [
@@ -995,28 +995,11 @@
     ]
   },
   {
-    "category": "desserts",
-    "title": "Chocolate Orange Babka",
-    "slug": "chocolate-orange-babka",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/chocolate-orange-babka_1.JPG",
-      "https://db1kxxvrlszby.cloudfront.net/chocolate-orange-babka_2.JPG"
-    ]
-  },
-  {
     "category": "israeli",
     "title": "Watermelon Fet Mint",
     "slug": "watermelon-fet-mint",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/watermelon-fet-mint_1.JPG"
-    ]
-  },
-  {
-    "category": "desserts",
-    "title": "Peach Kuchen",
-    "slug": "peach-kuchen",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/peach-kuchen_1.JPG"
     ]
   },
   {
@@ -1382,7 +1365,7 @@
     ]
   },
   {
-    "category": "desserts",
+    "category": "dessert",
     "title": "coconut pecan pie",
     "slug": "coconut-pecan-pie",
     "image_urls": [
@@ -1612,7 +1595,7 @@
     ]
   },
   {
-    "category": "desserts",
+    "category": "dessert",
     "title": "Flourless Fudge Brownies",
     "slug": "flourless-fudge-brownies",
     "image_urls": [
@@ -1636,7 +1619,7 @@
     ]
   },
   {
-    "category": "desserts",
+    "category": "dessert",
     "title": "Rhubarb Date Crumble",
     "slug": "rhubarb-date-crumble",
     "image_urls": [
