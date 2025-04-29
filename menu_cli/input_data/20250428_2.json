@@ -1,0 +1,86 @@
+[
+  {
+    "category": "mexican",
+    "title": "mole chichilo 1",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_chichilo_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole chichilo 2",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_chichilo_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole coloradito 1",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_coloradito_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole coloradito 2",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_coloradito_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole de arroz",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_de_arroz.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole negro 1",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_negro_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole negro 2",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_negro_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole poblano con pollo 1",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_poblano_con_pollo_1.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "mole poblano con pollo 2",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/mole_poblano_con_pollo_2.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "salsa casera chiletepin",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/salsa_casera_chiletepin.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "tacos rellenos de camaron",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/tacos_rellenos_de_camaron.JPG"
+    ]
+  },
+  {
+    "category": "mexican",
+    "title": "xnipec yucatecan salsa",
+    "image_paths": [
+      "/Users/pete.jeffryes/Documents/pete/menu/mexican_update/xnipec_yucatecan_salsa.JPG"
+    ]
+  }
+]
