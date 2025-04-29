@@ -1889,8 +1889,8 @@
   },
   {
     "category": "sandwiches",
-    "title": "Curried Chicken Salad Thecozyapron",
-    "slug": "curried-chicken-salad-thecozyapron",
+    "title": "Curried Chicken Salad",
+    "slug": "curried-chicken-salad",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/curried-chicken-salad-thecozyapron_1.pdf"
     ]
@@ -2283,8 +2283,8 @@
   },
   {
     "category": "sauces",
-    "title": "Matbucha Tori Avey",
-    "slug": "matbucha-tori-avey",
+    "title": "Matbucha",
+    "slug": "matbucha",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/matbucha-tori-avey_1.pdf"
     ]
@@ -2465,8 +2465,8 @@
   },
   {
     "category": "israeli",
-    "title": "Chicken Shawarma Sandwichen  Ottolenghi Recipes",
-    "slug": "chicken-shawarma-sandwichen--ottolenghi-recipes",
+    "title": "Chicken Shawarma Sandwichen",
+    "slug": "chicken-shawarma-sandwichen",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/chicken-shawarma-sandwichen--ottolenghi-recipes_1.pdf"
     ]
@@ -3490,6 +3490,14 @@
     "slug": "xnipec-yucatecan-salsa",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/xnipec-yucatecan-salsa_1.JPG"
+    ]
+  },
+  {
+    "category": "israeli",
+    "title": "Bright Green Falafel",
+    "slug": "bright-green-falafel",
+    "image_urls": [
+      "https://db1kxxvrlszby.cloudfront.net/bright-green-falafel_1.png"
     ]
   }
 ]
