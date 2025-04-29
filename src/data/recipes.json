@@ -670,7 +670,7 @@
     ]
   },
   {
-    "category": "other",
+    "category": "french",
     "title": "french table look",
     "slug": "french-table-look",
     "image_urls": [
@@ -812,14 +812,6 @@
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/pizza-lewk_1.png",
       "https://db1kxxvrlszby.cloudfront.net/pizza-lewk_2.png"
-    ]
-  },
-  {
-    "category": "other",
-    "title": "Ratatouille",
-    "slug": "ratatouille",
-    "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.pdf"
     ]
   },
   {
@@ -1652,7 +1644,7 @@
     ]
   },
   {
-    "category": "other",
+    "category": "french",
     "title": "Pissaladière",
     "slug": "pissaladiere",
     "image_urls": [
@@ -2025,7 +2017,8 @@
     "title": "Ratatouille",
     "slug": "ratatouille",
     "image_urls": [
-      "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.JPG"
+      "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.JPG",
+      "https://db1kxxvrlszby.cloudfront.net/ratatouille_1.pdf"
     ]
   },
   {
