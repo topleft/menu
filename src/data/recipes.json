@@ -2258,9 +2258,9 @@
     ]
   },
   {
-    "category": "sauces",
-    "title": "Salsadechiledearbolrecipe Muydelish",
-    "slug": "salsadechiledearbolrecipe-muydelish",
+    "category": "mexican",
+    "title": "Salsa de chile de arbol",
+    "slug": "salsadechiledearbolrecipe",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/salsadechiledearbolrecipe-muydelish_1.pdf"
     ]
@@ -2274,7 +2274,7 @@
     ]
   },
   {
-    "category": "sauces",
+    "category": "mexican",
     "title": "Orange Mexican Marinade",
     "slug": "orange-mexican-marinade",
     "image_urls": [
@@ -2290,15 +2290,15 @@
     ]
   },
   {
-    "category": "sauces",
-    "title": "Mojo De Ajo Muydelish",
-    "slug": "mojo-de-ajo-muydelish",
+    "category": "mexican",
+    "title": "Mojo De Ajo",
+    "slug": "mojo-de-ajo",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/mojo-de-ajo-muydelish_1.pdf"
     ]
   },
   {
-    "category": "sauces",
+    "category": "mexican",
     "title": "Tomatillo Avo Sauce",
     "slug": "tomatillo-avo-sauce",
     "image_urls": [
@@ -2306,17 +2306,17 @@
     ]
   },
   {
-    "category": "sauces",
-    "title": "Salsa De Cacahuate Muydelish",
-    "slug": "salsa-de-cacahuate-muydelish",
+    "category": "mexican",
+    "title": "Salsa De Cacahuate",
+    "slug": "salsa-de-cacahuate",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/salsa-de-cacahuate-muydelish_1.pdf"
     ]
   },
   {
-    "category": "sauces",
-    "title": "Salsa De Chiltepin Muydelish",
-    "slug": "salsa-de-chiltepin-muydelish",
+    "category": "mexican",
+    "title": "Salsa De Chiltepin",
+    "slug": "salsa-de-chiltepin",
     "image_urls": [
       "https://db1kxxvrlszby.cloudfront.net/salsa-de-chiltepin-muydelish_1.pdf"
     ]
