@@ -29,6 +29,7 @@ export const query = graphql`
     allRecipesJson(filter: {category: {eq: $category}}) {
       edges {
         node {
+          category
           title
           slug
           id
